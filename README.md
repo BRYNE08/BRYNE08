@@ -7,7 +7,11 @@ Here are some ideas to get you started:
 -->
 
 
-##<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!--##<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+
+##<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRjaGYzcmRnNjc1cnh6aTJmZmJuanlicWM5d3JyZWhxbTdxZzMzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Rc2BC6AwdOncuw6Sf/giphy.gif">
+
+
 
 - 🔭 I’m currently working on ... **Delphi, React, React Native, NextJs, MongoDB, Python, Machine Learning** 
 - 🌱 I’m currently learning ... **Time series analysis on stock trading as part of my Masters degree in Computer Science**
